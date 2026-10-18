@@ -5,8 +5,8 @@
 # --- 必填 ---
 BETTER_AUTH_SECRET=1w2CID0Wok8gBDI43sCw87mq6OyPWvsO
 BETTER_AUTH_URL=https://l2cn.eu.cc
-GITHUB_CLIENT_ID=your-github-client-id
-GITHUB_CLIENT_SECRET=your-github-client-secret
+GITHUB_CLIENT_ID=Ov23lilieYgvjCrpuI8L
+GITHUB_CLIENT_SECRET=7eb4c75707ec6f387e7ee20b6c3d337c8ddc4a9c
 DOMAIN=l2cn.eu.cc
 
 # 仅本地开发使用。设为 dev 时不会真正发信，验证链接打在控制台。
