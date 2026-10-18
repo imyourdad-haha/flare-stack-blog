@@ -3,7 +3,7 @@
 # （部署时 `cf deploy` 会保留机密，但会丢弃未写入配置的普通文本变量）。
 
 # --- 必填 ---
-BETTER_AUTH_SECRET=your-secret-key-run-openssl-rand-hex-32
+BETTER_AUTH_SECRET=1w2CID0Wok8gBDI43sCw87mq6OyPWvsO
 BETTER_AUTH_URL=https://l2cn.eu.cc
 GITHUB_CLIENT_ID=your-github-client-id
 GITHUB_CLIENT_SECRET=your-github-client-secret
